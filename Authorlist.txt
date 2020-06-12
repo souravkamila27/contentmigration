@@ -1,0 +1,19 @@
+{
+  "AuthorList": {
+    "paul-stewart": {
+      "PageName": "paul-stewart",
+      "AuthorName":"Paul Stewart",
+      "Designation":"Head of Real Estate Research – Europe",
+      "AuthorDescription":"Paul Stewart is a member of Barings Alternative Investments, a global real estate, private equity and real assets platform. Paul is a Managing Director and Head of Real Estate Research – Europe, responsible for monitoring and forecasting property market fundamentals and capital market/pricing trends across Europe, with a particular focus on the UK, Nordic, and German property markets. He also produces a number of client publications. Additionally, Paul serves on the European/Asia Pacific Investment Committee. He has worked in the industry since 1996. Prior to joining the firm in 2012, Paul was Director of United Kingdom research and strategy for ING Real Estate Investment Management. Paul holds an M.Sc. in Urban Property Appraisal from the University of Paisley and obtained a further post-graduate diploma from the Investment Property Forum. He is a member of both the Society of Property Researchers and The Investment Property Forum",
+      "AuthorImage":""
+      },
+
+  "omotunde-lawal-cfa-managing-director": {
+      "PageName": "paul-stewart",
+      "AuthorName":"Omotunde Lawal",
+      "Designation":"Head of Emerging Markets Corporate Debt",
+      "AuthorDescription":"Omotunde Lawal is the Head of Emerging Markets Corporate Debt Group and the lead portfolio manager for the Emerging Markets Corporate Debt strategy, as well as a member of the Barings EM Investment Committee. Prior to her current role, Tunde was the Head of Barings EM Corporate Credit Research, with research coverage responsibilities for various sectors such as Real Estate, LATAM Energy, and LATAM Infrastructure. Tunde has worked in the industry since 2000. Prior to joining the firm in 2014, she was a portfolio manager at Cosford Capital Management, focusing on high yield and distressed LATAM and CEEMEA corporates. Prior to this, she was at Standard Bank, where she traded and invested in distressed and stressed emerging markets corporates in LATAM and CEEMEA for the Principal Trading Team. Earlier, Tunde worked at Barclays Capital and Deloitte & Touche/Arthur Andersen. Tunde holds a B.Sc. in Accounting & Finance from University of Warwick, is a Fellow of the Chartered Institute of Accountants in England and Wales, and is a member of the CFA Institute",
+      "AuthorImage":""
+      },
+}
+}

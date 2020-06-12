@@ -1,0 +1,119 @@
+
+{
+  "ViewPoints": {
+    "ViewPonit1": {
+      "PageName": "Global-Real-Estate-Cyclical-Structural-Impacts-COVID-19",
+      "PageTitle": "Global Real Estate: Cyclical & Structural Impacts of COVID-19",
+      "PublishMonths": "May 2020 - 9 min read",
+      "PagePurpose": "As investors navigate global real estate markets in the months and years ahead, understanding the interplay between near-term cyclical weakness and long-term structural trends will be key",
+      "PagePreamble": "The global pandemic is dominating the lives of populations around the world—changing the way we all work and live—while also creating heightened levels of uncertainty among investors. Given the breadth of the self-imposed lockdowns in most economies, we know with near certainty that the magnitude of near-term economic contractions will be unprecedented in modern times. We also know that the near-term outlook has significantly weakened for all real estate markets. The impact, however, will not be uniform as some sectors are undoubtedly more exposed than others, and some entered the crisis in a position of strength, while others were already heading down a path of structural decline. Understanding the interplay between near-term cyclical weakness and long-term structural trends will be key for investors as they navigate global real estate markets in the months and years ahead.An Alphabet Soup of Recovery ScenariosThe duration of the COVID-19 is unknowable at this point, and consequently some property investors will likely choose to hold off on transacting for some time—a decision that, while logical, may result in the high opportunity cost of failing to invest during a period of dislocation. Indeed, the range of potential recovery scenarios is wide—from the familiar “V” and “U” shaped recoveries, to “W” (i.e. multiple waves of infections) and even “L” shaped recoveries in the worst of scenarios. While a “V” shaped recovery could see prices and valuations bounce back quickly—perhaps too quickly for investors to capitalize—a “W” shaped recovery could yield massive opportunities, but at the risk of seeing long-term structural trends derailed.",
+      "PageMainbody": "",
+      "EpisodeSegment": "",
+      "Readmorearctcile_Asset": "https://bwebprod.azureedge.net/assets/user/media/05.2020_GlobalRealEstate.pdf",
+      "Author_List": "paul-stewart",
+      "RelatedContent": {
+        "link1": "val",
+        "Link2": "val"
+      },
+      "Recent": "val"
+    },
+    "ViewPonit2": {
+      "PageName": "val",
+      "PageTitle": "val1",
+      "PublishMonths": "val",
+      "PagePurpose": "val",
+      "PagePreamble": "val",
+      "PageMainbody": "val",
+      "EpisodeSegment": "val",
+      "Readmorearctcile_Asset": "val",
+      "Author_List": "vall",
+      "RelatedContent": {
+        "link1": "val",
+        "Link2": "val"
+    },
+      "Recent": "val"
+    },
+    "ViewPonit3": {
+      "PageName": "val",
+      "PageTitle": "val1",
+      "PublishMonths": "val",
+      "PagePurpose": "val",
+      "PagePreamble": "val",
+      "PageMainbody": "val",
+      "EpisodeSegment": "val",
+      "Readmorearctcile_Asset": "val",
+      "Author_List": "vall",
+      "RelatedContent": {
+        "link1": "val",
+        "Link2": "val"
+    },
+      "Recent": "val"
+    },
+    "ViewPonit4": {
+      "PageName": "val",
+      "PageTitle": "val1",
+      "PublishMonths": "val",
+      "PagePurpose": "val",
+      "PagePreamble": "val",
+      "PageMainbody": "val",
+      "EpisodeSegment": "val",
+      "Readmorearctcile_Asset": "val",
+      "Author_List": "vall",
+      "RelatedContent": {
+        "link1": "val",
+        "Link2": "val"
+   },
+      "Recent": "val"
+    },
+"ViewPonit5": {
+      "PageName": "val",
+      "PageTitle": "val1",
+      "PublishMonths": "val",
+      "PagePurpose": "val",
+      "PagePreamble": "val",
+      "PageMainbody": "val",
+      "EpisodeSegment": "val",
+      "Readmorearctcile_Asset": "val",
+      "Author_List": "vall",
+      "RelatedContent": {
+        "link1": "val",
+        "Link2": "val"
+   },
+      "Recent": "val"
+    },
+"ViewPonit6": {
+      "PageName": "val",
+      "PageTitle": "val1",
+      "PublishMonths": "val",
+      "PagePurpose": "val",
+      "PagePreamble": "val",
+      "PageMainbody": "val",
+      "EpisodeSegment": "val",
+      "Readmorearctcile_Asset": "val",
+      "Author_List": "vall",
+      "RelatedContent": {
+        "link1": "val",
+        "Link2": "val"
+   },
+      "Recent": "val"
+    },
+"ViewPonit7": {
+      "PageName": "val",
+      "PageTitle": "val1",
+      "PublishMonths": "val",
+      "PagePurpose": "val",
+      "PagePreamble": "val",
+      "PageMainbody": "val",
+      "EpisodeSegment": "val",
+      "Readmorearctcile_Asset": "val",
+      "Author_List": "vall",
+      "RelatedContent": {
+        "link1": "val",
+        "Link2": "val"
+   },
+      "Recent": "val"
+    },
+
+  }
+}
+
